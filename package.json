@@ -125,7 +125,7 @@
     "@types/mime": "3.0.3",
     "@types/mocha": "10.0.3",
     "@types/node": "20.8.4",
-    "@types/pixelmatch": "5.2.5",
+    "@types/pixelmatch": "5.2.6",
     "@types/pngjs": "6.0.3",
     "@types/progress": "2.0.6",
     "@types/semver": "7.5.4",
