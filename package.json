@@ -174,7 +174,7 @@
     "spdx-satisfies": "5.0.1",
     "text-diff": "1.0.1",
     "tsd": "0.29.0",
-    "tsx": "3.14.0",
+    "tsx": "4.0.0",
     "typescript": "5.2.2",
     "wireit": "0.14.0",
     "zod": "3.22.4"
