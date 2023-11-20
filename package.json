@@ -140,7 +140,7 @@
     "commonmark": "0.30.0",
     "cross-env": "7.0.3",
     "diff": "5.1.0",
-    "esbuild": "0.19.5",
+    "esbuild": "0.19.6",
     "eslint": "8.51.0",
     "eslint-config-prettier": "9.0.0",
     "eslint-formatter-codeframe": "7.32.1",
